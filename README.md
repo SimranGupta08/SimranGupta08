@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/25043962/file/original-ca87df75747127e38c2049c72e374e5b.gif">
 Computer Science student | Java & DSA 💻<br>Exploring problem-solving, algorithms, <br>and real-world projects Consistency | Motivation. ⚡<br>Passionate about coding, logic building, and continuous learning. 🌱<br>Turning coffee into code ☕💻<br>Learning today, improving tomorrow.<br>Arrays today, trees tomorrow 🌳<br>Logic first, syntax later.🔥<br>If it works, don’t touch it,<br>99 bugs → fix one → 127 bugs,<br>Commit first, think later.<br>
-📧 **Reach me at:** [simrangupta9769@gmail.com](mailto:simrangupta9769@gmail.com)
+📧Reach me at: simrangupta9769@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/simrangupta976/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:simrangupta9769@gmail.com)
