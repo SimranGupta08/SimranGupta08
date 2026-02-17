@@ -1,7 +1,9 @@
-![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
+![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)]
+
 # 💫 Hi 👋, I'm Simran Gupta
 **Aspiring Software Developer || Full Stack Developer( HTML+CSS+JS+NodeJS+ExpressJS+ReactJS +MongoDB+Java+SpringBoot ) 3 ⭐ at HackerRank (Problem solving ) | DSA @ HackerRank + Leetcode | CS Post Grad’2025**
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/25043962/file/original-ca87df75747127e38c2049c72e374e5b.gif">
 Computer Science student | Java & DSA 💻<br>Exploring problem-solving, algorithms, <br>and real-world projects Consistency | Motivation. ⚡<br>Passionate about coding, logic building, and continuous learning. 🌱<br>Turning coffee into code ☕💻<br>Learning today, improving tomorrow.<br>Arrays today, trees tomorrow 🌳<br>Logic first, syntax later.🔥<br>If it works, don’t touch it,<br>99 bugs → fix one → 127 bugs,<br>Commit first, think later.<br>
 
 
